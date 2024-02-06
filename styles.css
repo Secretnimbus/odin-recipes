@@ -8,5 +8,9 @@ body {
 
 li,p {
     color:rgb(248, 230, 130);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}

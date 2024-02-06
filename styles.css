@@ -5,3 +5,8 @@ body {
 .headers{
     color: whitesmoke;
 }
+
+li,p {
+    color:rgb(248, 230, 130);
+}
+
